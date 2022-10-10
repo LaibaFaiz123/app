@@ -16,6 +16,7 @@ function App() {
     <div>
       <AddUser onAddUser={addUserHandler} />
       <UsersList users={usersList} />
+      <p>Laiba Faiz</p>
     </div>
   );
 }
